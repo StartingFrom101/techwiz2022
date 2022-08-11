@@ -1,0 +1,141 @@
+{
+    "student": {
+        "marks": [
+            {
+                "class": "Math I",
+                "grade": 9
+            },
+            {
+                "class": "English I",
+                "grade": 7.5
+            },
+            {
+                "class": "Language I",
+                "grade": 3.5
+            },
+            {
+                "class": "Art I",
+                "grade": 4
+            }
+        ],
+        "progress": [
+            {
+                "class": "Science I",
+                "progress": 75,
+                "resources": {
+                    "notebook": "link.com",
+                    "video": "link.com",
+                    "worksheet": "link.com",
+                    "additional": "link.com"
+                }
+            },
+            {
+                "class": "Math II",
+                "progress": 60,
+                "resources": {
+                    "notebook": "link.com",
+                    "video": "link.com",
+                    "worksheet": "link.com",
+                    "additional": "link.com"
+                }
+            },
+            {
+                "class": "Language II",
+                "progress": 40,
+                "resources": {
+                    "notebook": "link.com",
+                    "video": "link.com",
+                    "worksheet": "link.com",
+                    "additional": "link.com"
+                }
+            },
+            {
+                "class": "Art II",
+                "progress": 90,
+                "resources": {
+                    "notebook": "link.com",
+                    "video": "link.com",
+                    "worksheet": "link.com",
+                    "additional": "link.com"
+                }
+            },
+            {
+                "class": "PE I",
+                "progress": 40,
+                "resources": {
+                    "Notebook": "link.com",
+                    "Video": "link.com",
+                    "Worksheet": "link.com",
+                    "Additional": "link.com"
+                }
+            }
+        ],
+        "revision": [
+            {
+            "class" : "Language I",
+            "revisiondone" : false, 
+            "date" : "8/10"
+            },
+            {
+            "class" : "Art I",
+            "revisiondone" : false, 
+            "date" : "12/10"
+            },
+            {
+            "class" : "English I",
+            "revisiondone" : true
+            
+            }
+
+        ]
+    },
+    "teacher" : {
+        "scores" : [
+        {
+            "name" : "StudentA",
+            "grade" : 6.5 
+        },
+        {
+            "name" : "StudentB",
+            "grade" : 8.5
+        },
+        {
+            "name" : "StudentC",
+            "grade" : 6.5
+        },
+        {
+            "name" : "StudentD",
+            "grade" : 7.5
+        }
+    ],
+    "progress" : [
+            {
+                "name" :"StudentE",
+                "progress" : 40
+            },
+            {
+                "name" :"StudentF",
+                "progress" : 50
+            },
+            {
+                "name" :"StudentG",
+                "progress" : 60
+            },
+            {
+                "name" :"StudentH",
+                "progress" : 45
+            },
+            {
+                "name" :"StudentI",
+                "progress" : 90
+            }
+        ],
+    "resources" : [
+        {
+            "Notebook": "link.com",
+            "Video": "link.com"
+        }
+    ]
+    }
+
+}
